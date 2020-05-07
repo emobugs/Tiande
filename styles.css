@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header  Header  Header */
+
+/* Header  Header  Header */
+
+header {
+    background-color: aqua;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav li:first-of-type {
+    margin-left: 20px;
+}
+
+nav li {
+    margin: 5px 10px 5px 0;
+    list-style-type: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+#push {
+    margin-left: auto;
+}
+
+/* Main Main Main Main */
+
+/* Main Main Main Main */
+
+section {
+    background-color: teal;
+}
+
+footer {
+    background-color: rgb(82, 207, 24);
+}
